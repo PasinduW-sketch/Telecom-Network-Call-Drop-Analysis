@@ -1,4 +1,4 @@
-# 📞 Telecom Network Call Drop Analysis
+# Telecom Network Call Drop Analysis
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
