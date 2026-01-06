@@ -42,7 +42,7 @@ pip install pandas matplotlib seaborn numpy
 
  Project Structure
 
-telecom-call-drop-analysis/
+    telecom-call-drop-analysis/
 │
 ├── Telco.csv                    # Sample dataset (placeholder)
 ├── telecom_analysis.py          # Main analysis script
