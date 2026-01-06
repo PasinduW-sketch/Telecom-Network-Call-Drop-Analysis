@@ -40,9 +40,8 @@ pip install pandas matplotlib seaborn numpy
 3. install from requirements.txt:
    pip install -r requirements.txt
 
- Project Structure
-
-    telecom-call-drop-analysis/
+ Project Structure 
+ telecom-call-drop-analysis/
 │
 ├── Telco.csv                    # Sample dataset (placeholder)
 ├── telecom_analysis.py          # Main analysis script
@@ -60,6 +59,8 @@ pip install pandas matplotlib seaborn numpy
 │
 └── reports/                     # Analysis reports
     └── analysis_summary.txt
+
+
  
 🎯 Quick Start
 Using Python Script
